@@ -4,10 +4,10 @@ import json
 
 # Create your views here.
 def index(request):
-	return HttpResponse('Hello shivangi...')
+	return HttpResponse('Hello shivank...')
 
 def test(request):
-	return HttpResponse('<h1>You are looking Beautifull...<h1>')
+	return HttpResponse('<h1>The Test Driven...</h1>')
 
 def profile(request):
     parsedData = []
