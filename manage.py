@@ -12,6 +12,7 @@ if __name__ == "__main__":
         # issue is really that Django is missing to avoid masking other
         # exceptions on Python 2.
         # adding comment
+        # one more
         try:
             import django
         except ImportError:
