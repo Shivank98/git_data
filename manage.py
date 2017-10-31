@@ -9,7 +9,7 @@ if __name__ == "__main__":
         from django.core.management import execute_from_command_line
     except ImportError:
         # The above import may fail for some other reason. Ensure that the
-        # issue is really that Django is missing to avoid masking other
+        # issue is not a problem for you to use the same for book 1 and now book her
         # exceptions on Python 2 . .
         
         
