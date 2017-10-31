@@ -1,1 +1,1 @@
-application for fetching github data using github API
+this application for fetching github data using github API
