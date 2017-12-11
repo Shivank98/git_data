@@ -1,4 +1,4 @@
-## Application for fetching github data using github APIs
+## Application For Fetching Github Data Using Github APIs
 
 
 1.To run it as a web app in your local system clone this repository in your local system.
