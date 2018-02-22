@@ -2,7 +2,7 @@
 # contributing
 import os
 import sys
-
+# this was made by kirti
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "git_data.settings")
     try:
