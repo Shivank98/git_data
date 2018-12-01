@@ -4,7 +4,7 @@
 1. To run it as a web app in your local system clone this repository in your local system.
 
 
-2.go into the main directory to where you cloned it and where is your  ```manage.py``` file.
+ 2.go into the main directory to where you cloned it and where is your  ```manage.py``` file.
 
 
 3.open terminal in that folder you can use ```shift + right click``` to get an option for this.
